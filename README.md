@@ -7,6 +7,7 @@ GUI_PyBLP is a Python 3 implementation of routines for estimating the demand for
 > Setting up problem
 > Run with default setting
 
+**About PyBLP** 
 > **PyBLP** is a Python 3 implementation of routines for estimating the demand for differentiated products with BLP-type random coefficients logit models. This package was created by Jeff Gortmaker in collaboration with Chris Conlon.
 > [PyBLP Github Link](https://github.com/jeffgortmaker/pyblp/blob/master/README.rst)
 
