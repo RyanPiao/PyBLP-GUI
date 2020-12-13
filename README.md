@@ -52,3 +52,4 @@ GUI_PyBLP is a Python 3 implementation of routines for estimating the demand for
 > Market-by-market parallelization
 > Extended floating point precision
 > Robust error handling
+A
