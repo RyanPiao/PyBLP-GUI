@@ -25,8 +25,8 @@ GUI_PyBLP is a Python 3 implementation of routines for estimating the demand for
 > Normal and lognormal random coefficients
 > Parameter bounds and constraints
 > Random coefficients nested logit (RCNL)
-> Approximation to the pure characteristics model
-> Varying nesting parameters across groups
+> - Approximation to the pure characteristics model
+> - Varying nesting parameters across groups
 > Logit and nested logit benchmarks
 > Classic BLP instruments
 > Differentiation instruments
