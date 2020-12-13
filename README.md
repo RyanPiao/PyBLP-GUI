@@ -12,7 +12,7 @@ GUI_PyBLP is a Python 3 implementation of routines for estimating the demand for
 > [PyBLP Github Link](https://github.com/jeffgortmaker/pyblp/blob/master/README.rst)
 
 **PyBLP Features** 
-> -R-style formula interface
+> - -R-style formula interface
 > Bertrand-Nash supply-side moments
 > Multiple equation GMM
 > Demographic interactions
