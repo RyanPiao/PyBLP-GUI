@@ -1,2 +1,47 @@
 # GUI_PyBLP
-Hello
+
+GUI_PyBLP is a grapical interface for PyBLP.
+
+PyBLP is a Python 3 implementation of routines for estimating the demand for differentiated products with BLP-type random coefficients logit models. This package was created by Jeff Gortmaker in collaboration with Chris Conlon.
+
+Features
+R-style formula interface
+Bertrand-Nash supply-side moments
+Multiple equation GMM
+Demographic interactions
+Micro moments that match demographic expectations and covariances
+Second choice micro moments that match probabilities and covariances
+Custom micro moments
+Fixed effect absorption
+Nonlinear functions of product characteristics
+Concentrating out linear parameters
+Normal and lognormal random coefficients
+Parameter bounds and constraints
+Random coefficients nested logit (RCNL)
+Approximation to the pure characteristics model
+Varying nesting parameters across groups
+Logit and nested logit benchmarks
+Classic BLP instruments
+Differentiation instruments
+Optimal instruments
+Tests of overidentifying and model restrictions
+Parametric boostrapping post-estimation outputs
+Elasticities and diversion ratios
+Marginal costs and markups
+Profits and consumer surplus
+Merger simulation
+Custom counterfactual simulation
+Synthetic data construction
+SciPy or Artleys Knitro optimization
+Fixed point acceleration
+Monte Carlo, quasi-random sequences, quadrature, and sparse grids
+Importance sampling
+Custom optimization and iteration routines
+Robust and clustered errors
+Linear or log-linear marginal costs
+Partial ownership matrices
+Analytic gradients
+Finite difference Hessians
+Market-by-market parallelization
+Extended floating point precision
+Robust error handling
