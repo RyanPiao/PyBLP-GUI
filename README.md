@@ -14,8 +14,8 @@ GUI_PyBLP is a Python 3 implementation of routines for estimating the demand for
 **PyBLP Features** 
 > - -R-style formula interface
 > - Bertrand-Nash supply-side moments
-> - Multiple equation GMM
-> Demographic interactions
+> - - Multiple equation GMM
+> - Demographic interactions
 > Micro moments that match demographic expectations and covariances
 > Second choice micro moments that match probabilities and covariances
 > Custom micro moments
