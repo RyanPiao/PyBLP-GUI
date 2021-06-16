@@ -1,4 +1,4 @@
-# GUI_PyBLP
+# GUI PyBLP
 
 GUI_PyBLP is a Python 3 implementation of routines for estimating the demand for differentiated products with BLP-type random coefficients logit modelsis on a grapical interface. This program is grapical interface develpoed for PyBLP.
 
